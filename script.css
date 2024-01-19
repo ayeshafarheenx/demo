@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(19, 16, 16);
+}
+
+@font-face {
+  font-family: RedVelvet;
+  src: url(RedVelvet.otf);
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  border-radius: 10%;
+  border: 2px solid white;
+}
+
+div {
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  color: aliceblue;
+  font-family: RedVelvet;
+}
+
+button {
+  padding: 10px;
+  background-color: black;
+  border-radius: 5%;
+  border: 2px solid white;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-family: RedVelvet;
+  font-weight: 400;
+  font-size: 20px;
+}
